@@ -6,7 +6,7 @@ function HeroSection() {
   return (
     <>
       <div className="bg-[#1abc9c] ">
-        <div className="w-full flex flex-col justify-center items-center   ">
+        <div className="w-full flex flex-col justify-center items-center">
           <img className="w-60 h-60 mt-24" src={Avatar} alt="" />
           <h1 className="text-white font-bold text-6xl mt-10">
             START BOOTSTRAP
